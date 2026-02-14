@@ -67,10 +67,13 @@ The platform focuses on:
 ---
 
 ## 🌐 Live Demo
-
+```bash
+https://cyberintelligence360.vercel.app/
+```
 🔗 **GitHub Repository:**  
+```bash
 https://github.com/developershubham01/cyberintelligence360
-
+```
 ---
 
 ## 📂 Project Folder Structure
@@ -97,3 +100,32 @@ cyberintelligence360/
 ├── postcss.config.js
 └── README.md
 ```
+⚙️ Installation & Setup
+📥 Clone the Repository
+```bash
+git clone https://github.com/developershubham01/cyberintelligence360.git
+cd cyberintelligence360
+```
+📦 Install Dependencies
+```bash
+npm install
+```
+▶ Run Locally
+```bash
+npm start
+```
+
+Open in browser:
+```bash 
+👉 http://localhost:3000
+```
+
+🏗 Build for Production
+```bash
+npm run build
+```
+
+🛡 Disclaimer
+
+⚠️ This platform is strictly for educational & ethical use only.
+Unauthorized or illegal usage of tools is prohibited.
